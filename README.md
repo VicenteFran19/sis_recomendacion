@@ -13,7 +13,6 @@ recommender_portfolio/
 ├── notebooks/
 │   ├── 01_filtrado_colaborativo_lightfm.ipynb   # Recomendación basada en usuarios con LightFM
 │   └── 02_filtrado_contenido.ipynb              # Recomendación basada en contenido con TF-IDF
-├── src/                          # Carpeta para funciones reutilizables (vacía por ahora)
 ├── requirements.txt              # Lista de dependencias para instalar el entorno
 └── README.md                     # Documentación general
 ```
